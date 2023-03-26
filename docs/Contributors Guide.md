@@ -12,3 +12,8 @@ sidebar_position: 0
 2. Create a **new branch with course name** `git checkout -b course-name` or **work with an existing course** `git checkout course-name`
 3. Go to `docs/` create the course folder with `course-name` inside it. Like this: `docs/course-name`
 4. Inside `docs/course-name/` create `course-intro.md` file
+
+:::info
+- Make sure you have a gitpod account or you are logged into it
+- If you are new to Gitpod go to **_gitpod>userSettings>integrations_** and enable github permissions to be able contribute to the code
+:::
